@@ -1,0 +1,149 @@
+a{
+    color:  #11999E;
+    text-decoration: none;
+}
+body {
+    font-family: 'Noto Serif', serif;
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    color:  #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.625rem;
+    line-height: 2;
+    margin-top: 0px;
+}
+h2{
+    color:  #66BFBF;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 70px;
+    font-weight: normal;
+    margin:50px auto;
+}
+h3{
+    color: #11999E;
+    
+}
+hr{
+    border-color: #efee9d;
+    border-style: dotted;
+    border-width:8px 0px 0px 0px ;
+    width:8%;
+}
+.about{
+    font-size: 50px;
+    border-top:10px ;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom:300px;
+    left:210px;
+}
+.bottom-container{
+    background-color: #10375c;
+    width: 100%;
+    display: inline-block;
+}
+.btn{
+    background-color: #5fdde5;
+    color: whitesmoke;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 40px auto 40px auto;
+    width:130px;
+    padding: 10px;
+    display: inline-block;
+}
+.C{
+    border-radius:100%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.footer-link{
+    display: inline-block;
+    padding: 25px;
+    text-decoration: none;
+}
+.get-in{
+    margin-bottom: 20px;
+}
+.middle-container{
+    background-color: #ddf3f5;
+}
+.my-image{
+    width: 15%;
+}
+.name{
+    font-size:150px ;
+    border:10px;
+   
+}
+.para-1{
+    margin:0px auto 100px auto;
+    text-align: center;
+    width:50%;
+}
+.profile-pic{
+    width:20%;
+}
+.python{
+    width:25%;
+    float:left;
+    border-radius: 100%;
+    margin-right: 30px;
+}
+.skills{
+background-color: #f3c623;
+}
+.skill-row{
+    margin: auto;
+    margin: 100px auto;
+    text-align: left;
+    width:50%;
+    line-height: 2;
+}
+.top-cloud{
+    position: absolute;
+    right:230px;
+    top: 50px;
+    width:200px;
+}
+.top-container{
+    background-color: #a6dcef;
+    margin: 0px;
+    height: 100%;
+    padding-top: 50px;
+    position:relative;
+    line-height: 1;
+}
+.web{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+.z{
+    background-color:#a6dcef;
+    width:100%;
+    height: 60px;
+}
+#left-nav{
+ float: left;
+ list-style: none;
+}
+
+#right-nav{
+    float:right;
+    list-style: none;
+    padding-bottom: 10px;
+}
+#right-nav li{
+    display: inline-block;
+    margin:0px;
+    list-style: none;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
